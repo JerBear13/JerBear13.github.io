@@ -32,4 +32,5 @@ AP Computer Science A
 Activities
 Drumline Tenor section leader
 
+This project was to turn a game me and my friends played on paper into a digital game. It is tic-tac-toe inside tic-tac-toe inside tic-tac-toe.
 [Ultimate Tic Tac Toe](https://github.com/JerBear13/Ultimate-Ultimate-Tic-Tac-Toe)
